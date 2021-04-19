@@ -1,0 +1,2 @@
+# BMR-calculator
+Me and my friend komal have Developed a BMR Calculator (Basal metabolic rate ). This was our first Android App. This App take your age , height ,and weight as input and Gives You a Bmr number. BMR is the number of calories required to keep your body functioning at rest, also known as your metabolism. This calculator determine your BMR to determine your caloric needs , this help you to loss or gain weight. This App use Simple calculation. We have used Java for this
